@@ -17,7 +17,7 @@ Basic setup of an Ubuntu Linux server using VirtualBox.
 - Mounted the Ubuntu ISO with Oracle,
 - Determined system specs, RAM, CPU count, disk space,
 and installed Ubuntu.
-(System minimums: Ram: 3072, CPU: 2 cores, Disk space: 25 GB)
+- (System minimums: Ram: 3072, CPU: 2 cores, Disk space: 25 GB)
 ### 3. System Update
 ```bash
 sudo apt update && sudo apt upgrade -y
