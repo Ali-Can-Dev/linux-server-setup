@@ -14,7 +14,7 @@ Basic setup of an Ubuntu Linux server using VirtualBox.
 - Downloaded Oracle Virtual Box,
 
 ### 2. Installation
-- Mounted the Ubuntu ISO,
+- Mounted the Ubuntu ISO with Oracle,
 - Determined system specs, RAM, CPU count, disk space,
 and installed Ubuntu.
 
