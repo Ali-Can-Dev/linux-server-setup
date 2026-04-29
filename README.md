@@ -23,7 +23,7 @@ and installed Ubuntu.
 sudo apt update && sudo apt upgrade -y
 ```
 
-### GUI Upgrade
+### 4. GUI Upgrade
 ```bash
 sudo apt install ubuntu-desktop
 sudo shutdown -r now
